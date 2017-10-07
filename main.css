@@ -1,0 +1,49 @@
+.navigation
+{
+    background-color: white;
+    padding-bottom: 15px;
+    border-bottom-style: inset;
+
+}
+
+.navigation img
+{
+
+    float: left;
+    padding-left: 80px;
+    padding-right: 210px;
+
+}
+li
+{
+
+    display:inline;
+    padding-right:50px;
+    border-right: dotted;
+
+}
+ul
+{
+    font-size: 14px;
+    padding-top: 43px;
+    padding-left: 50px;
+    font-family: 'Ubuntu', 'Lucida Grande', 'Lucida Sans Unicode', 'Geneva', 'Verdana', sans-serif;
+}
+nav
+{
+    padding-left: 50px;
+}
+.navigation > a
+{
+
+    max-font-size: 30px;
+}
+.col-md-6 > img
+{
+    padding-left: 150px;
+}
+.right
+{
+    text-align: left;
+    padding-top: 40px;
+}
