@@ -2,7 +2,6 @@
 {
     background-color: white;
     padding-bottom: 15px;
-    border-bottom-style: inset;
 
 }
 
@@ -11,10 +10,10 @@
 
     float: left;
     padding-left: 80px;
-    padding-right: 210px;
+    padding-right: 50px;
 
 }
-li
+nav > ul > li
 {
 
     display:inline;
@@ -47,3 +46,19 @@ nav
     text-align: left;
     padding-top: 40px;
 }
+.content
+{
+    max-width: 80%;
+    margin: auto;
+}
+h5
+{
+    font-weight: bold;
+    font-family: Times New Roman;
+
+.header
+{
+    padding-bottom: 80px;
+}
+
+
